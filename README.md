@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidyl98
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Dart.
 - 💞️ I’m looking to collaborate on Flutter apps.
 - 📫 How to reach me jgarciaalbalah@gmail.com
 
