@@ -2,6 +2,7 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 <h3 align="center">
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=Aidyl98&style=flat-square&color=673AB5" alt=""></p>
   Hi, I'm Jessica Aidyl!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
