@@ -48,6 +48,12 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></code>
 
+---
+
+### 🏆 My Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aidyl98)](https://github.com/Aidyl98)
+
 <!---
 Aidyl98/Aidyl98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
