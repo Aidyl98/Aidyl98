@@ -17,16 +17,15 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
-![Aidyl's github stats](https://github-readme-stats.vercel.app/api?username=Aidyl98&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<p align="right">
-  <a href="https://github.com/Aidyl98/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidyl98&layout=compact&       count_private=true&theme=radical"/></a>
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Aidyl98&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=Aidyl98&theme=radical&date_format=j%20M%5B%20Y%5D&count_private=true" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Aidyl98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidyl98&layout=compact&       count_private=true&theme=radical"/></a>
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aidyl98&theme=radical&date_format=j%20M%5B%20Y%5D&count_private=true)](https://git.io/streak-stats)
-
-
-
 
 ---
 
